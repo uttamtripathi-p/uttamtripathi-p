@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Uttam Tripathi and cuuremtly learning "Devops" from one of the best in the field "Train-with-shubham" through his "90 Days of DevOps challenge"
+I'm Uttam Tripathi and currently learning "Devops" from one of the best in the field "Train-with-shubham" through his "90 Days of DevOps challenge"
    
 Skills I'm currently working on are linux,docker,networking,git,GITHUB ACTIONS,Shell Scripting.
 
