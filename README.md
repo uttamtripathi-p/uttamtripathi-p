@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 😄
 
 <!--
 **uttamtripathi-p/uttamtripathi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+1> I'm Uttam Tripathi and cuuremtly learning "Devops" from one of the best in the field "Train-with-shubham" through his "90 Days of DevOps challenge"
+   
+2> Skills I'm currently working on are linux,docker,networking,git,GITHUB ACTIONS,Shell Scripting.
+
+3> Reach me at my linkedin - <> , 
+email - uttamtripathi2020@gmail.com
